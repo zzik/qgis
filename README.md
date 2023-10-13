@@ -7,7 +7,7 @@ python script.py
 ```
 
 
-
+-----------------------------------
 paste any URL with video 🐱‍👤
 or type
 `ytsearch:never gonna give you up`
