@@ -13,7 +13,7 @@ or
 3. `ytsearch:never gonna give you up`
 
 -----------------------------------
-common error fix:
+4. common error fix:
 - AppData/local/python/site-packages/youtube_dl/extractor/youtube.py
 - swap `line 1794` with the line below
   
