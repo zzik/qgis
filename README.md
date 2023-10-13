@@ -5,13 +5,13 @@ Run:
 pip install youtube-dl tkinter ffmpeg avconv ffprobe
 python script.py
 ```
-> paste any URL with video 🐱‍👤
+paste any URL with video 🐱‍👤
 or
-> ytsearch:never gonna give you up
+`ytsearch:never gonna give you up`
 
 youtube search troubleshoot in case of error:
 - AppData/local/python/site-packages/youtube_dl/extractor/youtube.py
-- swap line 1794 with the line below
+- swap `line 1794` with the line below
 ```
 'uploader_id': self._search_regex(r'/(?:channel|user)/([^/?&#]+)', owner_profile_url, 'uploader id', fatal=False) if owner_profile_url else None,
 ```
