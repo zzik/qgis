@@ -9,7 +9,7 @@ python script.py
 
 -----------------------------------
 2. paste any URL with video 🐱‍👤
-or type
+or
 3. `ytsearch:never gonna give you up`
 
 -----------------------------------
