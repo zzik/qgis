@@ -1,6 +1,4 @@
-## video/audio downloader
-
-1. Run:
+## 1. Run:
 ```
 pip install youtube-dl tkinter ffmpeg avconv ffprobe
 python script.py
@@ -8,12 +6,12 @@ python script.py
 
 
 -----------------------------------
-2. paste any URL with video 🐱‍👤
+## 2. paste any URL with video 🐱‍👤
 or
-3. `ytsearch:never gonna give you up`
+## 3. `ytsearch:never gonna give you up`
 
 -----------------------------------
-4. common error fix:
+## 4. common error fix:
 - AppData/local/python/site-packages/youtube_dl/extractor/youtube.py
 - swap `line 1794` with the line below
   
