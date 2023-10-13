@@ -1,5 +1,5 @@
-## ytdl pylib
-### download videos from any platform, choose if you want only audio - cheers!
+## video/audio downloader
+
 Run:
 ```
 pip install youtube-dl tkinter ffmpeg avconv ffprobe
