@@ -1,6 +1,6 @@
 ## video/audio downloader
 
-1. Run the following in your terminal:
+1. Run:
 ```
 pip install youtube-dl tkinter ffmpeg avconv ffprobe
 python script.py
