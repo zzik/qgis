@@ -1,4 +1,4 @@
-## youtube-dl python library
+## ytdl pylib
 ### download videos from any platform, choose if you want only audio - cheers!
 Run:
 ```
