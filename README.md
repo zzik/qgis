@@ -5,9 +5,9 @@ Run:
 pip install youtube-dl tkinter ffmpeg avconv ffprobe
 python script.py
 ```
-Paste any URL with video 🐱‍👤
-- or type the following in the URL field
-ytsearch:never gonna give you up
+> paste any URL with video 🐱‍👤
+or
+> ytsearch:never gonna give you up
 
 youtube search troubleshoot in case of error:
 - AppData/local/python/site-packages/youtube_dl/extractor/youtube.py
