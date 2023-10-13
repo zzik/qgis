@@ -1,6 +1,6 @@
 ## video/audio downloader
 
-Run the following in your terminal:
+1. Run the following in your terminal:
 ```
 pip install youtube-dl tkinter ffmpeg avconv ffprobe
 python script.py
@@ -8,9 +8,9 @@ python script.py
 
 
 -----------------------------------
-paste any URL with video 🐱‍👤
+2. paste any URL with video 🐱‍👤
 or type
-`ytsearch:never gonna give you up`
+3. `ytsearch:never gonna give you up`
 
 -----------------------------------
 common error fix:
