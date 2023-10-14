@@ -2,7 +2,7 @@
 ```
 git clone https://github.com/zzik/yt-dl
 pip install youtube-dl tkinter ffmpeg avconv ffprobe
-python script.py
+python yt-dl/script.py
 ```
 
 
